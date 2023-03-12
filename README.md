@@ -6,11 +6,11 @@ this is mini_capture_and_modify_system, you can capture and modify the image
 이 미니 캡처&수정 프로그램을 사용하기 위해서(작동하는 과정은) 크게 _두_ _가지의_ _과정_ 이 있습니다.   
       
 ## 1. 원하는 순간 캡쳐하기   
-![Capturing](README/1.png)   
+![Capturing](README_img/1.png)   
 처음에 나타나는 화면에서 'Enter'키를 눌러서 원하는 순간 캡쳐를 할 수 있습니다. 이때 캡쳐한 이미지는 img 폴더에 **'captured_image.png'라는 파일로 저장**이 됩니다.   
    
 ## 2. 캡쳐한 이미지를 수정하기   
-![Editing](README/2.png)   
+![Editing](README_img/2.png)   
 방금 캡쳐한 이미지를 마우스나 키보드를 통해서 특정 수정기능을 활용하실 수 있습니다.   
 (위의 이미지는 대조, 밝기를 변경 한 후 색반전을 한 결과물입니다)   
 
@@ -28,7 +28,7 @@ this is mini_capture_and_modify_system, you can capture and modify the image
    
 이렇게 수정된 이미지는 img 폴더에 **'edited_image.png'라는 파일로 저장**이 됩니다.   
    
-![Editing](README/3.png)   
+![Editing](README_img/3.png)   
 (위의 결과물에서 이미지 자르기까지 하면 다음과 같은 파일이 최종 저장이 됩니다)   
 
 [유튜브를 통해서 작동 전체 영상보기](https://youtu.be/X5AGYDIpELk)   
