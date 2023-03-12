@@ -31,4 +31,4 @@ this is mini_capture_and_modify_system, you can capture and modify the image
 ![Editing](README_img/3.png)   
 (위의 결과물에서 이미지 자르기까지 하면 다음과 같은 파일이 최종 저장이 됩니다)   
 
-[유튜브를 통해서 작동 전체 영상보기](https://youtu.be/X5AGYDIpELk)   
+[유튜브를 통해서 작동 전체 영상보기](https://youtu.be/2_hACna6XE8)   
